@@ -1,0 +1,18 @@
+.main {
+    position: fixed;
+    width: 400px;
+    padding-bottom: 80px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.randomValue {
+    width: 400px;
+    height: 40px;
+    padding: 0px 10px;
+    border-top: solid 1px skyblue;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: aliceblue;
+}
