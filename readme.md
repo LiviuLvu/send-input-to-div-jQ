@@ -6,4 +6,4 @@ After button click the input data is written in empty element below.
 The field is cleard.  
 
 Screen capture demo:  
-![image](https://raw.githubusercontent.com/LiviuLvu/d3-learning-data-visualisation/master/send-input-to-div-jQ/send-input-to-div-jQ.jpg)  
+![image](https://github.com/LiviuLvu/send-input-to-div-jQ/blob/master/send-input-to-div-jQ.jpg)  
